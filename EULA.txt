@@ -1,0 +1,72 @@
+STRIPECX SOFTWARE LICENSE AGREEMENT
+------------------------------------
+
+PLEASE READ THE EULA (END USER LICENSE AGREEMENT) BEFORE USING THIS SOFTWARE!
+
+
+IMPORTANT: When you install copy or using this software in any way, you agree to the terms of this EULA. If you disagree with this EULA do not install or use this software!
+
+The client (you) in this document is called the end-user.
+
+
+## TERMS AND CONDITIONS:##
+
+The supplied software by NetDistrict is licensed under the Terms and Conditions of this EULA. NetDistrict retains ownership of the software and reserves all rights who are not explicitly granted to the end-user.
+
+
+LICENSE:
+1. NetDistrict grants the user a license to use this software limited to one copy per granted license.
+2. The end-user is not allowed to interfere in any way with licensing and controlling features of the software, including blocking access to NetDistrict servers in any way.
+3. This software license is limited to operate under one domain and installed on one system (whether physical or virtual).
+4. This software license is exclusively granted to the end-user. The end-user is not allowed to dispose the license including but not limited to: rent, lease, sub-license sell or pledge; either on temporary as permanent basis without written permission of NetDistrict.
+
+
+RESTRICTIONS:
+1. The end-user agrees to not decompile, disassemble or reverse engineer the software.
+2. The end-user is not allowed to share any part of the source code from this software with any third party. Doing so will be a violation of copyright laws and is a cause for license termination.
+3. Modifying any part of the encrypted source code of this software is a violation of copyright laws and will result in a cause for license termination.
+4. When the end-user is updating or upgrading this software to a different version, this EULA is terminated and the EULA associated with the installed version will be applicable. 
+5. The end-user may only obtain updates or upgrades for this software from NetDistrict or other authorized sources. Unauthorized copies may lead to license termination.
+
+
+COPYRIGHT & TRADEMARK:
+1. All parts of this software including but not limited to: images, animations, video, audio, text and printed materials and copies are restrained by title and copyright owned by NetDistrict. The software is protected by copyright laws and international treaty provisions.
+
+
+TERMINATION RIGHTS:
+1. If the end-user fails to comply with the Terms and Conditions of this EULA, NetDistrict is allowed to terminate the license agreement without prejudice to any other rights, with or without notice.
+2. If the end-users license is terminated, the end-user must destroy all copies of this software.
+3. If the end-user becomes subject to an administration order, legal restraint or bankruptcy. Or in case a creditor seizes the end-users belongings, NetDistrict is allowed to terminate the license agreement.
+4. If the end-users is unable to pay the debts in consequence of this EULA, NetDistrict is allowed to terminate the license agreement, after a final written notice of omission.
+5. The end-user is not allowed to export or re-export this software or any copy or adaption of it.
+
+
+LIABILITY LIMITATIONS:
+1. NetDistrict does not warrant in any way the operation of this software will be uninterrupted or error free. This software may contain third-party functions.
+2. NetDistrict is not liable for problems with this software as result of improper or inadequate maintenance or configuration; functions or routines developed by third parties; encryptions or beta software.
+3. The end-user must assume the entire risk of this software, before processing any data by testing with non-critical data before relying on it.
+4. NetDistrict is in no event liable for lost profit or lost savings or other damage caused by this software.
+5. If clause 4. From liability limitations is deemed unenforceable by court, NetDistrict liability shall be limited to the purchase value of the software and never exceeds 5.000 euro.
+6. The end-user accepts the software as is. There are no warranties to its use, performance or otherwise extent to the maximum applicable limitations by law.
+7. Support is limited to active support subscription who are valid for 1 year and can be extended for 1 year and ongoing.
+
+
+SUBMISSIONS:
+1. All submissions who are not confidential, transmitted by the end-user in any way to NetDistrict including but not limited to: ideas, concepts or techniques in any form, grants the end-user NetDistrict a royalty-free and worldwide irrevocable license to use, copy, transmit, adapt, distribute, create derivative works or display without limitations.
+
+
+BACKUPS AND DISTRIBUTION:
+1. The end-user is strictly prohibited to distribute registered versions of this software, and is punishable by severe criminal and civil penalties.
+2. The end-user is allowed to copy a registered version of this software for backup purposes only. Copies must be an accurate copy of the original software.
+
+
+REFUND POLICY:
+1. The end-user is entitled for a refund in case of software failure, and must be claimed within 1 month after the purchase date. Technical staff is required to determine if this software is causing it not to run on the end-users server. Refunds are not issued in any other case not limited to server failure or issues, missing features or when software requirements are not met.
+
+
+OTHER:
+1. If any clause or part of this EULA is not applicable by law or court order, other parts of this EULA will remain valid and can be enforced.
+2. NetDistrict intent to comply with Dutch data protection acts and legislation, however cannot vouch for permanent integrity of data.
+3. All information including but not limited to: name, address and contact information the end-user has provided NetDistrict are stored on computer systems managed by NetDistrict, and may be available for NetDistrict staff.
+4. The end-user agrees to the General Terms and Conditions of NetDistrict, which are accepted on sign-up, and available at the website of NetDistrict.
+5. Each party involved in this EULA agrees the Dutch court has exclusive jurisdiction to resolve disagreements as result of this EULA. Place of court trials will be The Netherlands.
